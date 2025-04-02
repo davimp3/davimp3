@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Habilidades 🛠️
-- **Linguagens**: Java[(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)], JavaScript, CSS. 
+- **Linguagens**: Java, JavaScript, CSS. 
 - **Bancos de dados**: MySQL.
 - **Ferramentas**: Git, VS Code, Windows.
 
