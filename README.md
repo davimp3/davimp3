@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Sobre mim ✨
 - 💻 Estudante de programação.
-- 📚 Aprendendo Java e MySQL pra construir projetos incríveis.
+- 📚 Aprendendo Java e MySQL pra construir projetos inovadores.
 - 🎯 Meta: Desenvolver sistemas que façam a diferença com poucos cliques!
 
 ---
