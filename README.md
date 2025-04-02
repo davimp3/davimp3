@@ -1,4 +1,4 @@
-Hello Galaxy! 
+###Hello Galaxy!
 
 Eu sou o Davi, dev em constante evolução! Atualmente estou bem focado em aprender **Java** e **MySQL**, e tô sempre buscando criar soluções práticas e experiências legais através da programação.
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Habilidades 🛠️
-- **Linguagens**: Java, JavaScript, CSS. 
+- **Linguagens**: Java(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white), JavaScript, CSS. 
 - **Bancos de dados**: MySQL.
 - **Ferramentas**: Git, VS Code, Windows.
 
