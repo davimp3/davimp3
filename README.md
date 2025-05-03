@@ -1,4 +1,4 @@
-###Hello Galaxy!
+### Hello Galaxy!
 
 Eu sou o Davi, dev em constante evolução! Atualmente estou bem focado em aprender **Java** e **MySQL**, e tô sempre buscando criar soluções práticas e experiências legais através da programação.
 
