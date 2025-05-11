@@ -10,10 +10,16 @@ You can click the Preview link to take a look at your changes.
 - Estudante de programação.
 -  Aprendendo linguagens e database pra construir projetos inovadores.
 -  Meta: Desenvolver sistemas que façam a diferença com poucos cliques!
+-  Contato:
+    📧 Email: [davi@desenvolvedor.uk](mailto:davi@desenvolvedor.uk) | [davi.nepomuceno@icloud.com](mailto:davi.nepomuceno@icloud.com)  
+    💼 LinkedIn: [Davi Nepomuceno](https://br.linkedin.com/in/davi-nepomuceno-30a8b9327)    
+
   
     
 
 ---
+
+
 
 ## Habilidades 🛠️
 - **Linguagens:**   
@@ -146,7 +152,7 @@ You can click the Preview link to take a look at your changes.
     
 ## Estatísticas📈:
  
-    
+  <p>
    <img 
     align="left" 
     alt="GitHub Stats" 
@@ -154,22 +160,14 @@ You can click the Preview link to take a look at your changes.
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=davimp3&show_icons=true&theme=shadow_green&include_all_commits=true&locale=pt-br"
     />
-    <br/>
+
    <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimp3&theme=shadow_green&layout=compact&custom_title=Tecnologias&langs_count=9"
    />
-   <br/>
-  
-  ---
-  
-  
-    
-  
-## Contato 📬
-- 📧 Email: [davi@desenvolvedor.uk](mailto:davi@desenvolvedor.uk) | [davi.nepomuceno@icloud.com](mailto:davi.nepomuceno@icloud.com)  
-- 💼 LinkedIn: [Davi Nepomuceno](https://br.linkedin.com/in/davi-nepomuceno-30a8b9327)
+  <p/>
+   
 
----
+  
