@@ -1,4 +1,4 @@
-### OLá, pessoal!
+### Olá, pessoal!
 
 Eu sou o Davi, dev em constante evolução! Atualmente estou  focado em aprender **linguagens** e **bda** (desenvolvimento web backend com Java, sistemas de gerenciamento, análise de dados com MySQL), estou sempre empenhado em criar soluções práticas e experiências legais através da programação.
 
