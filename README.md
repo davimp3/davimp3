@@ -1,4 +1,4 @@
-### Olá, pessoal!
+## Olá, pessoal!
 
 Eu sou o Davi, dev em constante evolução! Atualmente estou  focado em aprender **linguagens** e **bda** (desenvolvimento web backend com Java, sistemas de gerenciamento, análise de dados com MySQL), estou sempre empenhado em criar soluções práticas e experiências legais através da programação.
 
@@ -6,7 +6,7 @@ Eu sou o Davi, dev em constante evolução! Atualmente estou  focado em aprender
 davimp3/davimp3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Sobre mim 🤖
+### Sobre mim 🤖
 - Estudante de programação.
 -  Aprendendo linguagens e database pra construir projetos inovadores.
 -  Meta: Desenvolver sistemas que façam a diferença com poucos cliques!
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Habilidades 🛠️
+### Habilidades 🛠️
 - **Linguagens:**   
     
    <img   
@@ -149,7 +149,7 @@ You can click the Preview link to take a look at your changes.
     
     ---
     
-## Estatísticas📈:
+### Estatísticas📈:
  
   <p>
    <img 
