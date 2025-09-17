@@ -1,6 +1,6 @@
-### Hello Galaxy!
+### OLá, pessoal!
 
-Eu sou o Davi, dev em constante evolução! Atualmente estou bem focado em aprender **linguagens** e **bda** (desenvolvimento web backend com Java, sistemas de gerenciamento, análise de dados com MySQL), e tô sempre buscando criar soluções práticas e experiências legais através da programação.
+Eu sou o Davi, dev em constante evolução! Atualmente estou  focado em aprender **linguagens** e **bda** (desenvolvimento web backend com Java, sistemas de gerenciamento, análise de dados com MySQL), estou sempre empenhado em criar soluções práticas e experiências legais através da programação.
 
 <!---
 davimp3/davimp3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 -  Aprendendo linguagens e database pra construir projetos inovadores.
 -  Meta: Desenvolver sistemas que façam a diferença com poucos cliques!
 -  Contato:
-    📧 Email: [davi@desenvolvedor.uk](mailto:davi@desenvolvedor.uk) | 💼 LinkedIn: [Davi Nepomuceno](https://br.linkedin.com/in/davi-nepomuceno-30a8b9327)    
+    📧 Email: [davi.nepomuceno@icloud.com](mailto:davi.nepomuceno@icloud.com) | 💼 LinkedIn: [Davi Nepomuceno](https://br.linkedin.com/in/davi-nepomuceno-30a8b9327)    
 
   
     
