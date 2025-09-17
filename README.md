@@ -1,6 +1,6 @@
 ## Olá, pessoal!
 
-Eu sou o Davi, dev em constante evolução! Atualmente estou  focado em aprender **linguagens** e **bda** (desenvolvimento web backend com Java, sistemas de gerenciamento, análise de dados com MySQL), estou sempre empenhado em criar soluções práticas e experiências legais através da programação.
+Eu sou o Davi, dev em constante evolução! Atualmente estou focado em aprender **linguagens** e **bda** (desenvolvimento web backend, sistemas de gerenciamento, análise de dados), estou sempre empenhado em criar soluções práticas e experiências legais através da programação.
 
 <!---
 davimp3/davimp3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
